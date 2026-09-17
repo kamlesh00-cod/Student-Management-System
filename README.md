@@ -79,9 +79,10 @@ Sample Student Record
 
 The application stores data in the following format:
 
-101 | Rahul Sharma | 20 | JAVA
-102 | Priya Singh | 21 | PYTHON
-103 | Amit Kumar | 22 | SQL
+  101 | Rahul Sharma | 20 | JAVA
+  102 | Priya Singh | 21 | PYTHON
+  103 | Amit Kumar | 22 | SQL
+
 
 
 
